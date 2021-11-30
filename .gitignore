@@ -1,0 +1,7 @@
+*.aws
+*.terraform
+*.terraform.lock.hcl
+*.tfstate
+*plan
+.vscode
+*.json
