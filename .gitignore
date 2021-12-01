@@ -5,3 +5,5 @@
 *plan
 .vscode
 *.json
+*.txt
+*y/*
